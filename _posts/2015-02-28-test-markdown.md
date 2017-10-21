@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test markdown
+title: Markdown test
 subtitle: Each post also has a subtitle
 gh-repo: sculshaw/jekyll
 gh-badge: [star, fork, follow]
