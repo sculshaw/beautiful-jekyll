@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test markdown
+title: Markdown test
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+gh-repo: sculshaw/jekyll
 gh-badge: [star, fork, follow]
 ---
 
@@ -12,7 +12,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 ## Here is a secondary heading
 
-Here's a useless table:
+Here's a useless table  :
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
