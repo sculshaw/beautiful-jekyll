@@ -12,7 +12,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 ## Here is a secondary heading
 
-Here's a useless table :
+Here's a useless table  :
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
